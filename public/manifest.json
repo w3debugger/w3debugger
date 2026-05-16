@@ -1,0 +1,24 @@
+{
+  "short_name": "Umar Mehmood",
+  "name": "Muhamad Umar Mehmood — Frontend Developer & UI/UX Designer",
+  "description": "Frontend Developer and UI/UX Designer with over a decade of experience designing and building modern, accessible web interfaces.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#121212",
+  "background_color": "#121212",
+  "lang": "en"
+}

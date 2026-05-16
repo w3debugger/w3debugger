@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /resume.docx
+
+# Résumé / CV
+# Muhamad Umar Mehmood — Frontend Developer (Full-Stack) & UI/UX Designer
+# https://w3debugger.com/resume.docx
+
+Sitemap: https://w3debugger.com/sitemap.xml
